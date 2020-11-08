@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fran</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [LynxView](https://lynxview.es/)
+- 🔭 I’m currently working on [FiNetwork](https://www.finetwork.com/)
 
 - 🌱 I’m currently learning **Deno, GraphQL, Flutter ...**
 
