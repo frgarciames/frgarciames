@@ -4,13 +4,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=frgarciames.frgarciames)
 
 </p>
-<div size='20px'> Hi! My name is Fran. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Fran. Frontend dev who loves CSS and passionate of JS ecosystem :smile: 
 </div>
 
 <h2> About me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on <a href="https://www.finetwork.com">Finetwork</a>
 
