@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on <a href="https://www.finetwork.com">Finetwork</a>
 
-- 🌱 I’m currently learning AWS, Deno, Rust, Flutter... 
+- 🌱 I’m currently learning Deno, Rust, Flutter... 
 
-- 💬 Talk to me about Javascript, Typescript, React, Next.js, CSS, etc 
+- 💬 Talk to me about Javascript, Typescript, React, Next.js, Remix, CSS, etc 
 
 - 📫 You can reach me on fran17901@gmail.com
 
