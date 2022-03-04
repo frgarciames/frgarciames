@@ -1,10 +1,6 @@
-<h1> Hello Fellow < Developers/ >! </h1>
-<p align='center'>
+<h1> Hello !</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=frgarciames.frgarciames)
-
-</p>
-<div size='20px'> Hi! My name is Fran. Frontend dev who loves CSS and passionate of JS ecosystem :smile: 
+<div size='20px'>My name is Fran. Frontend dev who loves CSS and passionate of JS ecosystem :smile: 
 </div>
 
 <h2> About me </h2>
