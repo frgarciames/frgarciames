@@ -13,4 +13,4 @@
 
 - 📫 You can reach me on fran17901@gmail.com
 
-[![Frgarciames's GitHub stats](https://github-readme-stats.vercel.app/api?username=frgarciames&show_icons=true&bg_color=30,196463,604e95&title_color=fff&icon_color=ffeb3b&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Frgarciames's GitHub stats](https://github-readme-stats.vercel.app/api?username=frgarciames&show_icons=true&bg_color=30,196463,604e95&title_color=fff&icon_color=ffeb3b&text_color=fff)](https://github.com/frgarciames)
