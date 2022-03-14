@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.finetwork.com">Finetwork</a>
 
-- 🌱 I’m currently learning Deno, Rust, Flutter... 
+- 🌱 I’m currently learning Web3
 
 - 💬 Talk to me about Javascript, Typescript, React, Next.js, Remix, CSS, etc 
 
