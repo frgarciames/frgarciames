@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/jobandtalent">jobandtalent</a>
 
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning vim and rust!
 
 - 💬 Talk to me about Javascript, Typescript, React, Next.js, Remix, CSS, etc 
 
