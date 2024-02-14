@@ -5,7 +5,7 @@
 
 <h2> About me </h2>
 
-- 🔭 I’m currently working on <a href="https://github.com/jobandtalent">jobandtalent</a>
+- 🔭 I’m currently working on <a href="https://github.com/zylon-ai">Zylon</a>
 
 - 🌱 I’m currently learning rust!
 
