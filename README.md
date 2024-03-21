@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/zylon-ai">Zylon</a>
 
-- 🌱 I’m currently learning rust!
+- 🌱 I’m currently learning GenAI!
 
 - 💬 Talk to me about Javascript, Typescript, React, Next.js, Remix, CSS, etc 
 
